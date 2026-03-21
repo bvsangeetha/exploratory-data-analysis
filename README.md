@@ -1,30 +1,87 @@
-# Diwali Sales Analysis
+# 📊 Exploratory Data Analysis
 
-## Introduction
-The Diwali Sales Analysis project focuses on analyzing sales data during the Diwali festival to gain insights into customer behavior, improve customer experience, and optimize sales strategies. By performing data cleaning, exploratory data analysis (EDA), and visualization techniques, we aim to identify patterns and trends in the data to make informed decisions.
+## 📌 Project Overview
 
-## Dataset
-The dataset used for this analysis contains sales data during the Diwali festival, including details such as customer demographics, product categories, and sales quantities. It provides a comprehensive view of customer preferences and sales performance.
+This project focuses on analyzing Diwali sales data to uncover customer purchasing behavior, identify high-performing segments, and generate actionable business insights. The analysis helps businesses improve marketing strategies and boost sales performance during festive seasons.
 
-## Project Goals
-The main objectives of this analysis are as follows:
+---
 
-1. **Identify Potential Customers**: Analyze customer demographics, including states, occupations, gender, and age groups, to identify potential customers. This information will help in targeting specific customer segments and tailoring marketing strategies to improve customer experience.
+## 🎯 Objectives
 
-2. **Identify Most Selling Product Categories and Products**: Determine the product categories and specific products that have the highest sales during the Diwali festival. This insight will assist in planning inventory, ensuring product availability, and meeting customer demands.
+* Perform data cleaning and preprocessing
+* Conduct Exploratory Data Analysis (EDA)
+* Identify key customer segments contributing to sales
+* Analyze product categories and purchasing trends
+* Generate insights for business decision-making
 
-## Methodology
+---
 
-1. **Data Loading**: Load the Diwali sales dataset into the code using pandas library. Perform initial data exploration to understand the structure and content of the dataset.
+## 📂 Dataset
 
-2. **Data Cleaning and Manipulation**: Handle missing values, remove duplicates if any, and perform necessary data transformations. This step ensures the data is in a suitable format for analysis.
+The dataset contains Diwali sales information, including:
 
-3. **Exploratory Data Analysis (EDA)**: Use pandas, matplotlib, and seaborn libraries to explore the dataset. Analyze different variables, their distributions, and relationships. Generate various visualizations such as bar plots, pie charts, and scatter plots to uncover patterns and trends.
+* Customer demographics (Age, Gender, Marital Status)
+* Product categories
+* Purchase amounts
+* State-wise sales data
 
-4. **Customer Analysis**: Analyze customer demographics such as states, occupations, gender, and age groups to identify potential customers. Use bar plots or pie charts to visualize the distribution of customers across different categories.
+---
 
-5. **Product Sales Analysis**: Determine the most selling product categories and specific products during the Diwali festival. Utilize bar plots or pie charts to visualize the sales quantities and identify the top-selling items.
+## 🛠️ Tech Stack
 
+* Python 🐍
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-## Conclusion
-The Diwali Sales Analysis project aims to improve customer experience and sales strategies by analyzing sales data during the festival. By performing data cleaning, exploratory data analysis, and visualization, we can gain insights into potential customers across different demographics and identify the most selling product categories and products. These insights will help optimize marketing strategies, plan inventory, and meet customer demands, leading to improved sales and customer satisfaction during the Diwali festival.
+---
+
+## 📊 Key Insights
+
+* 👩‍🦰 Married women aged 26–35 are the highest contributors to sales
+* 📍 Top purchasing states include Uttar Pradesh, Maharashtra, and Karnataka
+* 🛍️ Most sold product categories are Food and Clothing
+* 💰 Higher spending observed among working professionals and married customers
+
+---
+
+## 📈 Analysis Performed
+
+* Data Cleaning (handling null values, formatting)
+* Univariate and Bivariate Analysis
+* GroupBy operations for aggregated insights
+* Visualization using bar charts, count plots, and heatmaps
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/bvsangeetha88-rgb/exploratory-data-analysis.git
+   ```
+2. Open the project folder
+3. Run the Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+4. Open `Diwali sales.ipynb` and run all cells
+
+---
+
+## 📌 Conclusion
+
+This analysis highlights key customer segments and product trends that businesses can target during festive seasons to maximize revenue and improve customer engagement.
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/bvsangeetha88-rgb/exploratory-data-analysis
+
+---
+
