@@ -81,7 +81,7 @@ This analysis highlights key customer segments and product trends that businesse
 
 ## 🔗 GitHub Repository
 
-https://github.com/bvsangeetha88-rgb/exploratory-data-analysis
+https://github.com/bvsangeetha/exploratory-data-analysis
 
 ---
 
