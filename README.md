@@ -61,7 +61,7 @@ The dataset contains Diwali sales information, including:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bvsangeetha88-rgb/exploratory-data-analysis.git
+   git clone https://github.com/bvsangeetha/exploratory-data-analysis.git
    ```
 2. Open the project folder
 3. Run the Jupyter Notebook:
